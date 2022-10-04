@@ -1,4 +1,4 @@
-![mohammed albadry github header](./assets/header.jpg)
+![mohammed albadry github header](./assets/header.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=1877F2)](https://www.linkedin.com/in/mohammed-albadry/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=white&color=1877F2)](https://www.facebook.com/mohammed.elbadry.dev/)
